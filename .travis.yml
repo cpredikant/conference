@@ -1,6 +1,0 @@
-dist: focal
-language: java
-script: mvn clean package
-
-jdk:
-  - openjdk11
