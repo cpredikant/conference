@@ -67,7 +67,7 @@
 		<version.source.plugin>2.4</version.source.plugin>
 
 		<version.slf4j>1.7.25</version.slf4j>
-		<version.logback>1.2.2</version.logback>
+		<version.logback>1.2.9</version.logback>
 		<version.primefaces>6.1</version.primefaces>
 		<version.omnifaces>2.6.3</version.omnifaces>
 
